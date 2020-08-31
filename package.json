@@ -2,7 +2,7 @@
     "name": "export-this",
     "displayName": "export-this",
     "description": "Easily add the file you are working in to your export file in TypeScript.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.48.0"
     },

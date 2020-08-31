@@ -11,8 +11,8 @@
             "request": "launch",
             "runtimeExecutable": "${execPath}",
             "args": [
-                "C:/Projects/fieldcap-4/client/",
-                "C:/Projects/fieldcap-4/client/libs/configurator/src/lib/components/base-grid-cell-component/base-grid-cell-component.component.ts",
+                "C:/Projects/New folder/test/",
+                "C:/Projects/New folder/test/src/app/components/test/test.component.ts",
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
             "outFiles": ["${workspaceFolder}/out/**/*.js"],
