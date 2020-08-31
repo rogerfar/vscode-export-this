@@ -1,6 +1,6 @@
 # Export-This for Visual Studio Code
 
-An extension for Visual Studio code to easily export TypeScript definitions to your index.ts files.
+An extension for Visual Studio code to easily export TypeScript declarations to your index.ts files.
 
 ![Demo](./resources/demo.gif)
 
